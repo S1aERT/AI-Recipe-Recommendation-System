@@ -73,19 +73,6 @@ Performance Summary
 
 4.Positive user feedback due to personalization and ease of use
 
-Project Structure
-├── backend/
-│   ├── model/
-│   ├── api/
-│   └── utils/
-├── frontend/
-│   ├── components/
-│   └── pages/
-├── datasets/
-├── notebooks/
-├── README.md
-└── requirements.txt
-
 
 Datasets Used
 
