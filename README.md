@@ -5,6 +5,7 @@ Many people struggle to decide what to cook due to limited ingredients, lack of 
 The application allows users to enter ingredients manually or through images and then generates step-by-step cooking instructions along with nutritional analysis. Over time, the system learns from user interactions to improve future recommendations.
 
 Key Features
+
 1.Generates recipes based on available ingredients
 2.Supports dietary preferences and restrictions
 3.Suggests suitable substitutes for missing or restricted ingredients
