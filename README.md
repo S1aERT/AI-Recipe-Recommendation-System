@@ -1,10 +1,13 @@
-Cloud-Based AI Recipe Generator
+**Cloud-Based AI Recipe Generator**
 This project is an AI-powered recipe recommendation system designed to help users decide what to cook based on the ingredients they have, their dietary preferences, and nutritional requirements. The system uses artificial intelligence, deep learning, and cloud computing to generate personalized recipes in real time. Its main goal is to simplify cooking decisions, reduce food waste, and promote healthier eating habits.
-Project Overview
+
+
+**Project Overview**
 Many people struggle to decide what to cook due to limited ingredients, lack of experience, or specific dietary needs. Traditional recipe platforms often provide static and non-personalized results. This project addresses these issues by introducing an intelligent, adaptive recipe generator that creates customized recipes based on user input.
 The application allows users to enter ingredients manually or through images and then generates step-by-step cooking instructions along with nutritional analysis. Over time, the system learns from user interactions to improve future recommendations.
 
-Key Features
+
+**Key Features**
 
 1.Generates recipes based on available ingredients
 
@@ -23,7 +26,7 @@ Key Features
 8.Improves recommendations using user feedback
 
 
-Technologies Used
+**Technologies Used**
 
 1.Artificial Intelligence and Machine Learning
 
@@ -48,7 +51,7 @@ Technologies Used
 11.Database: Recipe and nutrition datasets
 
 
-System Workflow
+**System Workflow**
 
 1.The user provides ingredients through text or image input
 
@@ -63,7 +66,7 @@ System Workflow
 6.The final recipe is presented with cooking steps, time, and nutrition details
 
 
-Performance Summary
+**Performance Summary**
 
 1.Fast recipe generation with responses in a few seconds
 
@@ -74,7 +77,7 @@ Performance Summary
 4.Positive user feedback due to personalization and ease of use
 
 
-Datasets Used
+**Datasets Used**
 
 1.Recipe1M
 
@@ -85,7 +88,7 @@ Datasets Used
 4.Custom nutrition datasets
 
 
-Applications
+**Applications**
 
 1.Daily home cooking with limited ingredients
 
@@ -98,7 +101,7 @@ Applications
 5.Smart kitchen and cloud-based food applications
 
 
-Future Scope
+**Future Scope**
 
 1.Integration with smart kitchen and IoT devices
 
@@ -109,6 +112,6 @@ Future Scope
 4.Transformer-based and multimodal recipe generation
 
 
-License
+**License**
 This project is developed for academic and learning purposes.
 
