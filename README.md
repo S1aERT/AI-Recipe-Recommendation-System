@@ -22,7 +22,9 @@ Key Features
 
 8.Improves recommendations using user feedback
 
+
 Technologies Used
+
 1.Artificial Intelligence and Machine Learning
 
 2.Recurrent Neural Networks (RNN)
@@ -45,7 +47,9 @@ Technologies Used
 
 11.Database: Recipe and nutrition datasets
 
+
 System Workflow
+
 1.The user provides ingredients through text or image input
 
 2.Ingredients are identified using NLP or CNN-based models
@@ -58,7 +62,9 @@ System Workflow
 
 6.The final recipe is presented with cooking steps, time, and nutrition details
 
+
 Performance Summary
+
 1.Fast recipe generation with responses in a few seconds
 
 2.High accuracy in recipe relevance (approximately 90–95 percent)
@@ -80,7 +86,9 @@ Project Structure
 ├── README.md
 └── requirements.txt
 
+
 Datasets Used
+
 1.Recipe1M
 
 2.RecipeNLG
@@ -89,7 +97,9 @@ Datasets Used
 
 4.Custom nutrition datasets
 
+
 Applications
+
 1.Daily home cooking with limited ingredients
 
 2.Diet-focused meal planning
@@ -100,7 +110,9 @@ Applications
 
 5.Smart kitchen and cloud-based food applications
 
+
 Future Scope
+
 1.Integration with smart kitchen and IoT devices
 
 2.Voice-based cooking assistance
@@ -108,6 +120,7 @@ Future Scope
 3.Region-specific and cuisine-based personalization
 
 4.Transformer-based and multimodal recipe generation
+
 
 License
 This project is developed for academic and learning purposes.
